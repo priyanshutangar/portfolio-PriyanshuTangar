@@ -5,7 +5,7 @@ function About() {
   const skills = [
     { name: "React", icon: FaReact, color: "text-blue-400" },
     { name: "Node.js", icon: FaNodeJs, color: "text-green-500" },
-    { name: "TypeScript", icon: SiJavascript, color: "text-yellow-300" },
+    { name: "JavaScript", icon: SiJavascript, color: "text-yellow-300" },
     { name: "HTML5", icon: FaHtml5, color: "text-orange-500" },
     { name: "CSS3", icon: FaCss3Alt, color: "text-blue-500" },
     { name: "Tailwind CSS", icon: SiTailwindcss, color: "text-cyan-400" },
