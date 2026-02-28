@@ -8,7 +8,7 @@ import { useEffect } from 'react';
 function App() {
   const userData = {
     name: "Priyanshu Tangar",
-    designation: "DevOps Engineer",
+    designation: "Associate DevOps Engineer",
     socialLinks: {
       github: "https://github.com/priyanshutangar",
       linkedin: "https://www.linkedin.com/in/priyanshu-tangar-a53686221/",
