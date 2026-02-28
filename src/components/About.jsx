@@ -1,5 +1,5 @@
-import { FaReact, FaNodeJs, FaHtml5, FaCss3Alt, FaGithub } from 'react-icons/fa';
-import { SiJavascript, SiTailwindcss, SiGit } from 'react-icons/si';
+import { FaReact, FaNodeJs, FaHtml5, FaCss3Alt, FaGithub, FaDocker, FaLinux, FaAws } from 'react-icons/fa';
+import { SiJavascript, SiTailwindcss, SiGit, SiKubernetes, SiGithubactions, SiAmazon, SiAmazonec2, SiHarness } from 'react-icons/si';
 
 function About() {
   const skills = [
@@ -11,11 +11,11 @@ function About() {
     { name: "Tailwind CSS", icon: SiTailwindcss, color: "text-cyan-400" },
     { name: "GitHub", icon: FaGithub, color: "text-gray-200" },
     { name: "Git", icon: SiGit, color: "text-orange-600" },
-    { name: "Docker", icon: FaDocker, color: "text-sky-400" },
+    { name: "Docker", icon:  FaDocker, color: "text-sky-400" },
     { name: "Kubernetes", icon: SiKubernetes, color: "text-blue-500" },
     { name: "Linux", icon: FaLinux, color: "text-gray-300" },
     { name: "CI/CD", icon: SiGithubactions, color: "text-purple-400" },
-    { name: "AWS", icon: SiAmazonaws, color: "text-orange-400" }
+    { name: "AWS", icon: FaAws, color: "text-orange-400" },
   ];
 
   return (
