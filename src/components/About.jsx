@@ -10,7 +10,12 @@ function About() {
     { name: "CSS3", icon: FaCss3Alt, color: "text-blue-500" },
     { name: "Tailwind CSS", icon: SiTailwindcss, color: "text-cyan-400" },
     { name: "GitHub", icon: FaGithub, color: "text-gray-200" },
-    { name: "Git", icon: SiGit, color: "text-orange-600" }
+    { name: "Git", icon: SiGit, color: "text-orange-600" },
+    { name: "Docker", icon: FaDocker, color: "text-sky-400" },
+    { name: "Kubernetes", icon: SiKubernetes, color: "text-blue-500" },
+    { name: "Linux", icon: FaLinux, color: "text-gray-300" },
+    { name: "CI/CD", icon: SiGithubactions, color: "text-purple-400" },
+    { name: "AWS", icon: SiAmazonaws, color: "text-orange-400" }
   ];
 
   return (
