@@ -26,14 +26,11 @@ function About() {
         <div className="max-w-3xl mx-auto mb-16 glass-effect rounded-xl p-8">
           <h3 className="text-2xl font-semibold mb-4 text-blue-400">Profile Summary</h3>
           <p className="text-gray-300 leading-relaxed text-justify"  >
-          A results-driven Software Developer with a strong foundation in React.js, JavaScript, HTML, CSS, and modern web technologies, 
-          adept at developing scalable and user-centric applications. With hands-on experience in real-world projects such as an HRMS Portal, 
-          Weather Forecasting App, Password Generator, and Drum Game, I possess a keen problem-solving aptitude and a deep understanding of 
-          front-end development. As an Associate Software Developer at Strategyz Inc., I played a pivotal role in designing and optimizing 
-          front-end components, enhancing user experience, and contributing to HRMS advancements. In addition to my technical expertise, 
-          I have demonstrated strong leadership and organizational skills as the Finance Lead of Amity Coding Club and Student Coordinator 
-          of Placement, actively driving strategic initiatives and event execution. Recognized with multiple accolades, including High Flyer, 
-          Engaging Buddy, and Manager’s Choice, I bring a commitment to innovation, efficiency, and excellence in software development.
+          I am a motivated and results-driven DevOps Engineer with a strong foundation in CI/CD pipelines, Docker, Linux, and cloud-native deployment workflows, focused on improving software delivery, reliability, and scalability. I enjoy building automated, efficient systems that bridge the gap between development and operations and enable teams to ship faster and more reliably.
+          Alongside my DevOps expertise, I bring a solid background in Software Development, with hands-on experience in React.js, JavaScript, HTML, CSS, and modern web technologies. I have worked on real-world applications including a full-scale Human Resource Management System (HRMS), Weather Forecasting App, Password Generator, and interactive web applications. This development experience allows me to collaborate effectively with developers and design deployment pipelines that align closely with application architecture.
+          Previously, I worked as an Associate Software Developer at Strategyz Inc., where I designed and optimized front-end components, improved application performance, and contributed to enhancing user experience across HRMS modules. Currently, as a DevOps Engineer, I am actively involved in build automation, containerization, CI/CD pipeline support, and environment management, gaining practical exposure to scalable infrastructure and reliable release processes.
+          Beyond technical skills, I have demonstrated strong leadership and coordination abilities as the Finance Lead of Amity Coding Club and Student Coordinator of Placement. I have successfully managed technical events, coordinated with industry professionals, and contributed to team success. My efforts have been recognized through multiple accolades, including High Flyer, Engaging Buddy, and Manager’s Choice, reflecting my commitment to excellence, ownership, and continuous learning.
+          I am passionate about automation, system reliability, and continuous improvement, and I strive to build resilient DevOps solutions that support high-quality software delivery.
           </p>
         </div>
 
